@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    margin: 10px;
+    background-image: url(./Flat-Art.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    color: white;
+}
+.warrior-two{
+    width: 300px;
+}
+.h3{
+    color: white;
+    text-align: center;
+}
